@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+
+}
+
+.titulo {
+    color: rgb(50, 50, 50);   
+}
+
+button{
+    border-radius: 8px;
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+}
